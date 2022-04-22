@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ciclodevida2</string>
+    <string name="bfdescripcion">Informacion</string>
+    <string name="Titulop1">Lista de datos</string>
+    <string name="lnombre">Nombre</string>
+    <string name="ledad">Edad</string>
+    <string name="lagrega">Agregar</string>
+    <string name="lmostrar">Mostrar</string>
+</resources>
